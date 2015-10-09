@@ -1,4 +1,2 @@
 # multirich
-Development version of the multirich package (last stable version available on CRAN)
-
-COMING SOON!
+An R package, see package Description file for more information
