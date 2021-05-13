@@ -13,6 +13,6 @@ Description: Functions to calculate Unique Trait Combinations (UTC) and scaled
 License: GPL (>= 2)
 Suggests:
     knitr,
-    markdown,
+    rmarkdown,
     qpdf
 VignetteBuilder: knitr

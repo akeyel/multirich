@@ -1,6 +1,6 @@
 ^man-roxygen$
 LICENSE
-
+cran-comments.md
 .travis.yml
 ^.*\.Rproj$
 ^\.Rproj\.user$
