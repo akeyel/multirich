@@ -1,5 +1,6 @@
 ^man-roxygen$
 LICENSE
 
+.travis.yml
 ^.*\.Rproj$
 ^\.Rproj\.user$
