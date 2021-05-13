@@ -16,6 +16,6 @@ calc.mvd(in.mat, in.com, traitspace, calc.ovr)
 \item{calc.ovr}{An indicator for whether overlap metrics should be calculated}
 }
 \description{
-Function to reduce to funcitonal units, and calculate multivariate richness
+Function to reduce to functional units, and calculate multivariate richness
 and functional overlap
 }

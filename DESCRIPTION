@@ -17,3 +17,4 @@ Suggests:
     rmarkdown,
     qpdf
 VignetteBuilder: knitr
+RoxygenNote: 7.1.1
