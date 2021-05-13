@@ -1,7 +1,7 @@
 Package: multirich
 Type: Package
 Title: Calculate Multivariate Richness via UTC and sUTC
-Version: 2.1.1
+Version: 2.1.2
 Date: 2015-09-14
 Author: Alexander Keyel
 Maintainer: Alexander Keyel <skeyel@gmail.com>
@@ -12,5 +12,7 @@ Description: Functions to calculate Unique Trait Combinations (UTC) and scaled
     will also calculate several measures of overlap.
 License: GPL (>= 2)
 Suggests:
-    knitr
+    knitr,
+    markdown,
+    qpdf
 VignetteBuilder: knitr
