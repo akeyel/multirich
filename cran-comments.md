@@ -1,3 +1,7 @@
+The DOI was updated to match the CRAN format.
+
+Keyel and Wiegand are author names and are spelled correctly.
+
 multirich was updated to include rmarkdown as an explicit dependency.
 This was requested in an email from Kurt Hornik on 2021-04-16.
 
